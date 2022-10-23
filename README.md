@@ -13,9 +13,9 @@
 ```
 npm run start
 ```
-Your are goint to be prompted for a filename, just use the name of your file here, the app will search for that file inside the `/inputs` folder.
+Your are going to be prompted for a filename, use the name of the file you placed insie the `/inputs` folder.
 5. Wait for the promt to log the name of your resulting outputs file or go directly to the `/outputs` folder and search for the latest file created.
 6. The resulting file is an html formatted file, you can open it in your favorite browser! 😁
 
-## To Exit the application just type `.exit` in the repl.
+### To Exit the application, just type `.exit` in the repl.
 

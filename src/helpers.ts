@@ -186,7 +186,7 @@ export function generateViewsFromMap(folder: string, matrix: LightMap){
       </html>
     `
   } 
-  const filename = 'test' // new Date().toISOString()  
+  const filename = new Date().toISOString()  
   const pathToFile = path.join(folder, filename + '.html')
 
   const table = generateTable(matrix)
