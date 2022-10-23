@@ -19,3 +19,6 @@ npm run start
 
 ### To Exit the application, just type `.exit` in the repl.
 
+The expected output should look like this: 
+![image](https://user-images.githubusercontent.com/16492144/197420265-72933c1c-ced1-43e8-9326-58800c9437c3.png)
+
