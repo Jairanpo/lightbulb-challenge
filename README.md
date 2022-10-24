@@ -17,7 +17,7 @@ npm run start
 6. Wait for the prompt to log the name of your resulting outputs file or go directly to the `/outputs` folder and search for the latest file created.
 7. The resulting file is an HTML formatted file; you can open it in your favorite browser! 😁
 
-### To exit, the application, just type `.exit` in the REPL.
+### To exit the application, just type `.exit` in the REPL.
 
 The expected output should look like this: 
 ![image](https://user-images.githubusercontent.com/16492144/197420265-72933c1c-ced1-43e8-9326-58800c9437c3.png)
